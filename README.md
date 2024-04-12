@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭Let's craft the future with some coding magic! Right now, I'm currently learning Ruby on Rails. 🚀✨
+- 🔭Let's craft the future with some coding magic! Right now, I'm learning Ruby on Rails. 🚀✨
 
 - 👯 I'm passionate about pursuing innovative and groundbreaking ideas.
   
